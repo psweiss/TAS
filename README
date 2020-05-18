@@ -1,0 +1,12 @@
+
+Thank you for looking at my TAS simulator.
+
+TAS stands for "Transmission Assessment Survey," the current methodology employed by the World Health Organization (WHO) to determine
+whether the prevalence of lymphatic filariasis (LF) in an evaluation area (EA) has dropped below a certain threshold. This methodology
+has been in use for almost a decade but there has been some debate on its effectiveness.
+
+Our simulation allows a user to create an EA with control over various demographic and disease conditions and explore the resulting
+decisions TAS would generate under three different decision-making methods. Our paper uses an example scenario from the WHO's 
+guidelines on LF elimination as a framework for demonstrating the simulator in action and comparing the three different approaches
+for pass/failure.
+
